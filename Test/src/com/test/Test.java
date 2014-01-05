@@ -35,7 +35,7 @@ public class Test {
 //		
 //		System.out.println(max(startdate, enddate));
 		
-		//System.out.println(isEmailValidate("hei§@gmail.com"));
+		//System.out.println(isEmailValidate("heiï¿½@gmail.com"));
 
 		/*String dateString="8-8-2012";
 		if (convertToDate(dateString)!=null) {
@@ -49,7 +49,7 @@ public class Test {
 			service.submit(new ThreadPoolExample(i));
 		}
 		
-		System.out.println("Hi new test");
+		System.out.println("Hi new test Nishant");
 	}
 	
 	
