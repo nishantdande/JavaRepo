@@ -49,7 +49,6 @@ public class Test {
 			service.submit(new ThreadPoolExample(i));
 		}
 		
-		
 		System.out.println("Hi new test");
 	}
 	
